@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.project.parkingV1",
+      "sha256_cert_fingerprints":
+        ["0B:D4:5A:41:5C:2F:DA:1E:58:1C:7A:E4:15:FE:8A:F3:0A:CE:F3:88:16:6B:AA:19:5A:1E:AC:05:62:50:60:FB", "D2:83:69:58:99:6A:D0:4E:38:08:86:26:FF:F3:B0:40:39:4B:DE:A1:2B:76:75:C1:7A:B5:82:18:59:64:78:9D"]
+    }
+  }
+]
